@@ -16,3 +16,4 @@ print(blue_bike.colour) # prints: Blue
 print(blue_bike.frame_material) # prints: Steel
 # let's brake!
 red_bike.brake() # prints: Braking!
+blue_bike.brake() # prints: Braking! the same 
