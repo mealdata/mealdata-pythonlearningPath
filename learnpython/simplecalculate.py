@@ -6,6 +6,6 @@ if operator == "+":
 elif operator == "-":
     print(num1-num2)
 elif operator == "*":
-    print(num1*num2)
-else:
-    print(num1/num2)
+    print(f'The multiplication is, {num1*num2}')
+elif operator== "/":
+    print("The devision is ", num1/num2)
