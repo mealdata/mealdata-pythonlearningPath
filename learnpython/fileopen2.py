@@ -88,10 +88,10 @@ from IPython.display import display
 
 print(" ")
 display(y)
-# to print y DataFrame in html formula 
+# to print y DataFrame in html code 
 print(" ")
 print(" ")
-table_html =y.to_html()
+code_html =y.to_html() # output html code 
 print(table_html)
 
 #  install tabulate use pip install tabulate 
