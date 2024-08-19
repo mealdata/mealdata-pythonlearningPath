@@ -10,7 +10,7 @@ print(data1)
 
 print(" ")
 
-# Craeting dataframe
+# Craeting dataframe from data or from data1 also it is possible
 data2=pd.DataFrame(data)
 print(data2)
 # to replace the name of index(rows) and columns
