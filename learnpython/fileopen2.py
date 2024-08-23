@@ -92,7 +92,7 @@ display(y)
 print(" ")
 print(" ")
 code_html =y.to_html() # output html code 
-print(table_html)
+print(code_html)
 
 #  install tabulate use pip install tabulate 
 # create table form out put of above y DataFrame
