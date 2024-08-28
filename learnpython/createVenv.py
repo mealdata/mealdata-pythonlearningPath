@@ -33,6 +33,10 @@ cd myproject
 # now reday to create run the development server
 python manage.py runserver
 
+# create django app
+python manage.py startapp your_app_name
+
+
 # to deactive 
 
 deactivate
